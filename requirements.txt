@@ -1,4 +1,5 @@
 pandas==1.2.3
 scipy==1.4.1              # via seaborn
 seaborn==0.11.1
+openpyxl == 3.0.7
 xlrd == 1.2.0
